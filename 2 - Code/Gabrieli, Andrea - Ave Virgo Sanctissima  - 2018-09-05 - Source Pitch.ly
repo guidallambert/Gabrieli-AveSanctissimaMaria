@@ -31,7 +31,7 @@
 %
 
 \header {
-	title = "[TITLE HERE]"
+	title = "Ave Virgo Sanctissima Maria"
 	subtitle = "Motetto a V voci"
 	% poet = ""
 	% subsubtitle = "VIII Vocum"
