@@ -400,16 +400,16 @@ StaveHLyrics = \lyricmode { A }
         \vspace #1
 	\fill-line {
 		\column {
-                        \vspace #1
+      \vspace #1
 			%\line { Prima Pars }
-			\line { \italic { Hail most holy Mary, mother of God, queen of heaven, gate of paradise, ruler of the world. }}
+			\line { \italic { Hail most holy Mary, Mother of God, Queen of Heaven, gate of Paradise, ruler of the world. }}
 			\line { \italic { You are a uniquely pure virgin. }}
 			\line { \italic { You conceived Jesus without sin. }}
 			\line { \italic { You bore the creator and saviour of the world in whom I do not doubt. }}
-			\line { \italic { Free me from every evil and pray for me a sinner. }}
+			\line { \italic { Free me from all evil and pray for my sins. }}
 
 			\vspace #1
-			\line { Text source goes here }
+			\line { Text source unknown. }
 
 
 		}

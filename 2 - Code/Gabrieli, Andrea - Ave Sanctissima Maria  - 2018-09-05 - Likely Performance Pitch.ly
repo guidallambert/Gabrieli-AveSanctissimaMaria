@@ -50,7 +50,7 @@ htitle = "Ave Sanctissima Maria"
 % To transpose the whole score up a tone set to 'd'.  For down a tone, set to 'bes,' (note the comma) etc
 %  Everything is transposed, including key signatures etc (but prefatory staves are not affected).
 
-TranspositionInterval = c
+TranspositionInterval = g,
 
 
 
@@ -60,7 +60,7 @@ TranspositionInterval = c
 StaveAClef =  "treble"
 StaveALabel =  "CANTVS"
 
-StaveBClef =  "treble"
+StaveBClef =  "treble_8"
 StaveBLabel =  "ALTVS"
 
 StaveCClef =  "treble_8"
