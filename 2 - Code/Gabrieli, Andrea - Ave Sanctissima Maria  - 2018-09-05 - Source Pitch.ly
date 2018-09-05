@@ -64,7 +64,7 @@ StaveBClef =  "treble_8"
 StaveBLabel =  "ALTVS"
 
 StaveCClef =  "treble_8"
-StaveCLabel =  "TENOR"
+StaveCLabel =  "TENORE"
 
 StaveDClef =  "treble_8"
 StaveDLabel =  "QVINTVS"
