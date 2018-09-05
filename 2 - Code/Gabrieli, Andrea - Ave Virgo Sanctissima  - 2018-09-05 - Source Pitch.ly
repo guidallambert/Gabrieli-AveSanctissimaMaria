@@ -31,7 +31,7 @@
 %
 
 \header {
-	title = "Ave Virgo Sanctissima Maria"
+	title = "Ave Sanctissima Maria"
 	subtitle = "Motetto a V voci"
 	% poet = ""
 	% subsubtitle = "VIII Vocum"
@@ -41,7 +41,7 @@
 }
 
 hcomposer = "Gabrieli"
-htitle = "[SHORT TITLE GOES HERE]"
+htitle = "Ave Sanctissima Maria"
 
 %%% 1C - Transposition of the whole score.
 %
