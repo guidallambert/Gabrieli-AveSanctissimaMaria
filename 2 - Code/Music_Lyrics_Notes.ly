@@ -70,7 +70,7 @@ StaveANotes = {
 	r2	d''2 a'2 c''1 c''2 b'1 a'1
 	r1 	g''1 d''1 f''2 f''2 e''1 d''2 d''1 d''2 b'1 a'2
 		e''2 f''2 f''2 e''2. \melisma d''4 c''4 b'4 c''1 b'2 \melismaEnd c''\breve
-	r\breve
+		R\breve
 		d''\breve c''2 c''2 c''2 e''2 d''\breve b'\breve.
 	r1 R\breve r2
 		c''2 c''2 d''2 e''1 e''2 g''1 f''2 d''1 g''2 g''2 f''2 d''2 f''2 e''2 c''1 d''2 b'2 b'2 c''2 d''1 b'1
@@ -81,7 +81,7 @@ StaveANotes = {
 		e''1 f''1. e''2 e''2 d''2 e''1 c''2. b'4 b'2 c''1 e''2 g''2 g''2 f''1 e''1
 	r1	e''2. d''4 d''1 c''2 c''2 b'2 b'2 d''1 d''2
 		d''2 g''1 g''2 e''1 c''2 a'4 \melisma b'4 c''4 d''4 e''2 \melismaEnd e''2 c''2. \melisma b'4 a'1 \melismaEnd b'1
-	r\longa r2
+		R\longa r2
 		g'2 d''1 d''2 b'1 g'2 b'2 b'2 c''1 c''1
 	r2	c''2 g''1 g''2 f''1 f''2 d''2 g''2 g''2 \melisma \ficta fis''2 \melismaEnd g''\breve
 	R\breve r2
@@ -205,7 +205,7 @@ StaveDNotes = {
 		a2 d'1 b2. \melisma c'4 d'2 \melismaEnd e'1 e'2 c'2 b2 e'2. \melisma d'4 c'4 b4 c'2 \melismaEnd b\maxima*1/4
 
 }
-StaveENotes = {  
+StaveENotes = {
 
   % clef c4  % tweak / uncomment for debugging - this should override the clef in the score block
 
@@ -389,8 +389,8 @@ StaveELyrics = \lyricmode {
       et o -- ra pro pec -- ca -- tis me -- is,
       et o -- ra pro pec -- ca -- tis me -- is.
 }
-StaveFLyrics = \lyricmode {  
-      
+StaveFLyrics = \lyricmode {
+
       }
 StaveGLyrics = \lyricmode { A }
 StaveHLyrics = \lyricmode { A }
@@ -437,8 +437,8 @@ StaveHLyrics = \lyricmode { A }
           }
           \vspace #1
           \wordwrap  {
-              Barlines are editorial (one bar per \italic {tempus}, ie. breve); 
-              ficta, ligature brackets, cautionary and courtesy accidentals are above the stave where applicable. 
+              Barlines are editorial (one bar per \italic {tempus}, ie. breve);
+              ficta, ligature brackets, cautionary and courtesy accidentals are above the stave where applicable.
               Original note-values have been preserved as far as possible.
               Original mensuration marks are presented rather than imposing modern time signatures.
               Editorial underlay is in italics where applicable;
